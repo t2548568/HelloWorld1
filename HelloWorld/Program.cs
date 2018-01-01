@@ -11,7 +11,7 @@ namespace HelloWorld
         static void Main(string[] args)
         {
             Console.WriteLine("HelloWorld");
-            //aasdffasdf;
+            aasdffasdf;
             Console.ReadLine();
         }
     }
